@@ -1,12 +1,5 @@
 # convert this
 
-```ruby
-                         #       #  #    #      
-### ### ##  # # ### ### ###     ### ###      ## 
-#   # # # # # # ##  #    #       #  # #  #   #  
-### ### # #  #  ### #    ##      ## # #  ## ##  
-```
-
 An old file i found, a Python-based unit converter for common measurements
 
 ## features
